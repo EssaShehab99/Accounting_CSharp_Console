@@ -1,0 +1,16 @@
+c:\users\essa salam\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Database1.mdf
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Database1_log.ldf
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Essa Salam\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\Database1.mdf
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\Database1_log.ldf
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\accountingsystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
